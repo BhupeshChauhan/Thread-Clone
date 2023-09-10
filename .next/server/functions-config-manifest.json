@@ -1,0 +1,8 @@
+{
+  "version": 1,
+  "functions": {
+    "/api/webhook/clerk": {},
+    "/api/uploadthing": {},
+    "/thread/[id]": {}
+  }
+}
