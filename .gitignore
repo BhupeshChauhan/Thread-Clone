@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+
+# Environment files
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Build directories
+/.next/
+/out/
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
